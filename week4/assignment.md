@@ -1,4 +1,4 @@
-```markdown
+
 # Week 4 Assignment: Building a Multi-Turn Context-Aware Study Buddy
 
 [⬅️ Back to Material Index](material.md)
