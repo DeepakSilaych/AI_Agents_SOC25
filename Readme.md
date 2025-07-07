@@ -20,3 +20,9 @@ By the end, you'll have built your **own personalized AI Study Buddy**, capable 
 
 ### **Week 4 – Reasoning**
   👉 [Week 4 Notes](week4/material.md) | [Assignment](week4/assignment.md)
+
+### **Week 5 – LangGraph**
+  👉 [Week 5 Notes](week5/material.md) | [Assignment](week5/assignment.md)
+
+### **Week 6 - MCP**
+upcoming
